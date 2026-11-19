@@ -1,1 +1,9 @@
-winget install --id=Google.Chrome -e --silent ; winget install --id=7zip.7zip -e --silent ; winget install --id=RARLab.WinRAR -e --silent ; winget install --id=Microsoft.WindowsTerminal -v "1.25.3131.0" -e --silent ; winget install --id=MPC-BE.MPC-BE -e --silent ; winget install --id=Brave.Brave -e --silent ; winget install --id=DucFabulous.UltraViewer -e --silent ; winget install --id=geeksoftwareGmbH.PDF24Creator -e --silent ; winget install --id=win32ss.Supermium -e --silent ; winget install --id=SlashedIo.Inssist -e --silent
+winget install --id=Google.Chrome -e --silent; 
+winget install --id=7zip.7zip -e --silent; 
+winget install --id=RARLab.WinRAR -e --silent;
+winget install --id=MPC-BE.MPC-BE -e --silent; 
+winget install --id=Brave.Brave -e --silent; 
+winget install --id=DucFabulous.UltraViewer -e --silent; 
+winget install --id=geeksoftwareGmbH.PDF24Creator -e --silent; 
+winget install --id=win32ss.Supermium -e --silent; 
+winget install --id=SlashedIo.Inssist -e --silent
