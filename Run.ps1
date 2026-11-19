@@ -86,7 +86,7 @@ Architecture: $env:PROCESSOR_ARCHITECTURE
 function Show-Menu {
     Clear-Host
     Write-Host "====================================" -ForegroundColor Cyan
-    Write-Host "   BLUE'S DIAGNOSTICS DASHBOARD"
+    Write-Host "   GARRY'S DIAGNOSTICS DASHBOARD"
     Write-Host "====================================" -ForegroundColor Cyan
     Write-Host ""
     Write-Host "These diagnostics are created by Blue..."
@@ -114,7 +114,7 @@ while ($true) {
     $choice = Read-Host "Press a key (0 to Exit, 9 for System Info)"
 
     switch ($choice) {
-        "0" { Write-Host "`n✅ Exiting... Goodbye!" -ForegroundColor Green; Start-Sleep 1; exit }
+        "0" { Write-Host "`n✅ Garry Says Fuck You...!" -ForegroundColor Green; Start-Sleep 1; exit }
         "9" { Show-SystemInfo }
         default {
             if ($json.$choice) {
