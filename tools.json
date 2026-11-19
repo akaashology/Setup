@@ -10,11 +10,16 @@
     "Type": "ps1"
   },
   "C": {
+    "Name": "Christitus",
+    "Url": "https://christitus.com/win",
+    "Type": "cmd"
+  },
+  "D": {
     "Name": "MassGrave",
     "Url": "https://github.com/massgravel/Microsoft-Activation-Scripts/raw/refs/heads/master/MAS/All-In-One-Version-KL/MAS_AIO.cmd",
     "Type": "cmd"
   },
-  "D": {
+  "E": {
     "Name": "MS-Office",
     "Url": "https://install.msgang.com/",
     "Type": "ps1"
