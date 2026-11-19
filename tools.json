@@ -16,7 +16,7 @@
   },
   "D": {
     "Name": "MS-Office",
-    "Url": "https://github.com/msgang822/microsoft/raw/refs/heads/main/scripts/install.ps1",
+    "Url": "https://install.msgang.com/",
     "Type": "ps1"
   },
   "1": {
