@@ -12,7 +12,12 @@
   "C": {
     "Name": "Christitus",
     "Url": "https://christitus.com/win",
-    "Type": "cmd"
+    "Type": "ps1"
+  },
+  "D": {
+    "Name": "Debloat",
+    "Url": "https://raw.githubusercontent.com/Sycnex/Windows10Debloater/master/Windows10DebloaterGUI.ps1",
+    "Type": "ps1"
   },
   "D": {
     "Name": "MassGrave",
