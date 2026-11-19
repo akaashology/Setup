@@ -8,7 +8,7 @@ $ErrorActionPreference = "SilentlyContinue"
 # ---------------------------
 # Load Tools from JSON
 # ---------------------------
-$toolsJsonUrl = "https://github.com/BlueStreak79/Diagnostics/raw/main/tools.json"
+$toolsJsonUrl = "https://github.com/akaashology/Setup/raw/refs/heads/main/tools.json"
 try {
     $json = Invoke-RestMethod -Uri $toolsJsonUrl -UseBasicParsing
     if (-not $json) { throw "Tools list is empty or invalid." }
