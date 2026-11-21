@@ -89,8 +89,8 @@ function Show-Menu {
     Write-Host "   GARRY'S DIAGNOSTICS DASHBOARD"
     Write-Host "====================================" -ForegroundColor Cyan
     Write-Host ""
-    Write-Host "These diagnostics are created by Blue..."
-    Write-Host "Unlocking system secrets with just one click!"
+    Write-Host "These diagnostics are created by Blue For Big Bro Garry"
+    Write-Host "Unlocking system secrets with just one click...Thank Me Later!"
     Write-Host ""
 
     # Sort alphabetic + numeric keys properly
@@ -114,7 +114,7 @@ while ($true) {
     $choice = Read-Host "Press a key (0 to Exit, 9 for System Info)"
 
     switch ($choice) {
-        "0" { Write-Host "`n✅ Garry Says Fuck You...!" -ForegroundColor Green; Start-Sleep 1; exit }
+        "0" { Write-Host "`n✅ Garry Says Fuck You...TWICE!" -ForegroundColor Green; Start-Sleep 1; exit }
         "9" { Show-SystemInfo }
         default {
             if ($json.$choice) {
