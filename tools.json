@@ -29,7 +29,7 @@
     "Url": "https://install.msgang.com/",
     "Type": "ps1"
   },
-"5": {
+"G": {
     "Name": "Settings",
     "Url": "https://raw.githubusercontent.com/akaashology/Setup/refs/heads/main/Settings.ps1"
     "Type": "ps1"
