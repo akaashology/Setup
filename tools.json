@@ -44,5 +44,9 @@
   "4": {
     "Name": "MemTest64",
     "Url": "https://github.com/BlueStreak79/Diagnostics/raw/main/MemTest64.exe"
+  };
+"5": {
+    "Name": "Settings",
+    "Url": "https://raw.githubusercontent.com/akaashology/Setup/refs/heads/main/Settings.ps1"
   }
 }
