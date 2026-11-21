@@ -4,43 +4,58 @@
     "Url": "https://github.com/akaashology/Setup/raw/refs/heads/main/Winget.ps1",
     "Type": "ps1"
   },
+  
    "B": {
     "Name": "WingetApps",
     "Url": "https://github.com/akaashology/Setup/raw/refs/heads/main/Garry.ps1",
     "Type": "ps1"
   },
+  
   "C": {
     "Name": "Christitus",
     "Url": "https://christitus.com/win",
     "Type": "ps1"
   },
+  
   "D": {
     "Name": "Debloat",
-    "Url": "https://raw.githubusercontent.com/Sycnex/Windows10Debloater/master/Windows10DebloaterGUI.ps1"
+    "Url": "https://raw.githubusercontent.com/Sycnex/Windows10Debloater/master/Windows10DebloaterGUI.ps1",
     "Type": "ps1"
   },
+  
   "E": {
     "Name": "MassGrave",
     "Url": "https://github.com/massgravel/Microsoft-Activation-Scripts/raw/refs/heads/master/MAS/All-In-One-Version-KL/MAS_AIO.cmd",
     "Type": "cmd"
   },
+  
   "F": {
     "Name": "MS-Office",
     "Url": "https://install.msgang.com/",
     "Type": "ps1"
   },
+
+  "G": {
+    "Name": "Settings",
+    "Url": "https://github.com/akaashology/Setup/raw/refs/heads/main/Settings.ps1",
+    "Type": "ps1"
+  },
+  
   "1": {
     "Name": "AquaKeyTest",
     "Url": "https://github.com/BlueStreak79/Diagnostics/raw/main/AquaKeyTest.exe"
   },
+  
   "2": {
     "Name": "BatteryInfoView",
     "Url": "https://github.com/BlueStreak79/Diagnostics/raw/main/BatteryInfoView.exe"
   },
+  
   "3": {
     "Name": "lusrmgr",
     "Url": "https://github.com/BlueStreak79/Diagnostics/raw/main/lusrmgr.exe"
   },
+  
   "4": {
     "Name": "MemTest64",
     "Url": "https://github.com/BlueStreak79/Diagnostics/raw/main/MemTest64.exe"
