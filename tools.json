@@ -29,11 +29,6 @@
     "Url": "https://install.msgang.com/",
     "Type": "ps1"
   },
-"G": {
-    "Name": "Settings",
-"Url":"https://github.com/akaashology/Setup/raw/refs/heads/main/Settings.ps1"
-    "Type": "ps1"
-  },
   "1": {
     "Name": "AquaKeyTest",
     "Url": "https://github.com/BlueStreak79/Diagnostics/raw/main/AquaKeyTest.exe"
