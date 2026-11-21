@@ -48,5 +48,6 @@
 "5": {
     "Name": "Settings",
     "Url": "https://raw.githubusercontent.com/akaashology/Setup/refs/heads/main/Settings.ps1"
+"Type": "ps1"
   }
 }
