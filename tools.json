@@ -30,12 +30,18 @@
   },
   
   "F": {
-    "Name": "MS-Office",
+    "Name": "MSGANG",
     "Url": "https://install.msgang.com/",
     "Type": "ps1"
   },
 
   "G": {
+    "Name": "MS-Office",
+    "Url": "https://github.com/akaashology/Microsoft-Office/raw/refs/heads/main/Run.ps1",
+    "Type": "ps1"
+  },
+
+  "H": {
     "Name": "Settings",
     "Url": "https://github.com/akaashology/Setup/raw/refs/heads/main/Settings.ps1",
     "Type": "ps1"
